@@ -1,0 +1,32 @@
+/*.carousel {
+    height: 300px;
+    width: 100%;
+    background-color: white;
+}
+*/
+.slide {
+    height: 600px;
+    width: 600px;
+}
+
+
+.carousel-image{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+img.lighten {
+    filter: brightness(150%);
+}
+
+img.darken {
+    filter: brightness(50%);
+}
+
+.carousel-caption {
+    color: darkblue;
+}
+
+.slider {
+    text-align: center;
+}
